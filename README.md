@@ -1,2 +1,3 @@
-# github.para.programadores
-Prueba de repositorio
+# Bienvenido a mi prueba de Repositorio
+
+Este es mi primer repositorio en GitHub.
